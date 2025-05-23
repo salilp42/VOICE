@@ -10,7 +10,6 @@ The script addresses two reviewer comments:
 1. The interpretability of edge weights in relation to PD pathophysiology
 2. The independent contributions of temporal and similarity edges to classification
 
-Author: Cascade AI Assistant
 Date: 2025-05-19
 """
 
