@@ -1,17 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Interpretability Analysis for VoiceGraphNet
--------------------------------------------
-This script analyzes the learned GAT attention weights on temporal vs. similarity edges
-in the VoiceGraphNet model to understand their independent contributions to PD detection.
 
-The script addresses two reviewer comments:
-1. The interpretability of edge weights in relation to PD pathophysiology
-2. The independent contributions of temporal and similarity edges to classification
-
-Date: 2025-05-19
-"""
 
 import os
 import torch
